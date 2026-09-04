@@ -2,7 +2,6 @@
 
 Ride_Safe is a Flask-based, privacy-first ridesharing and carpool coordination service. The project emphasizes confidentiality and integrity for sensitive ride and profile data by combining ECC and RSA encryption with HMAC (server-side) integrity checks.
 
-> This README was updated by GitHub Copilot to reflect the repository's current implementation. Replace any placeholders with project-specific values where needed.
 
 ---
 
@@ -134,6 +133,5 @@ This repository contains an MIT License file. See `LICENSE` for details.
 
 ## Contact
 
-Maintainer: maisha0055
+maisha0055
 
-For support or feature requests, open an issue in this repository.
